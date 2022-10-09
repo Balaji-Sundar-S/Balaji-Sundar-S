@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiastic Engineer exploring several programming languages.</h3>
 <img align="right" alt="Coding" width="200" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajisundar28" alt="balajisundar28" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisundar28&label=Profile%20views&color=0e75b6&style=flat" alt="balajisundar28" /> </p>
 
 - 🌱 I’m currently learning **frontend development**
 
@@ -28,10 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajisundar28&show_icons=true&locale=en" alt="balajisundar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajisundar28&" alt="balajisundar28" /></p>
-
-
-
-
-
-
-
