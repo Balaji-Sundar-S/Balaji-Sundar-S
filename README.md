@@ -2,8 +2,6 @@
 <h3 align="center">An Enthusiastic Engineer exploring several programming languages.</h3>
 <img align="right" alt="Coding" width="200" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisundar28&label=Profile%20views&color=0e75b6&style=flat" alt="balajisundar28" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajisundar28" alt="balajisundar28" /></a> </p>
 
 - 🌱 I’m currently learning **frontend development**
@@ -16,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/balaji-sundar-s-a7a3a9225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji sundar s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balaji sundar s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji sundar s" height="30" width="40" /></a>
 <a href="https://instagram.com/balaji_sundar_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balaji_sundar_28" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/balajisundar_s_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balajisundar_s_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/balaji_sundar_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balaji_sundar_s" height="30" width="40" /></a>
@@ -30,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajisundar28&show_icons=true&locale=en" alt="balajisundar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajisundar28&" alt="balajisundar28" /></p>
+
+
+
+
+
+
+
