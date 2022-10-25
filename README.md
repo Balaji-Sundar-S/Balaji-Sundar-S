@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Balaji Sundar</h1>
 <h3 align="center">An Enthusiastic Engineer exploring several programming languages.</h3>
-<img align="right" alt="Coding" width="300" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisundar28&label=Profile%20views&color=0e75b6&style=flat" alt="balajisundar28" /> </p>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **web development**
 
 - 💬 Ask me about **python, c languages**
 
@@ -26,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajisundar28&show_icons=true&locale=en&layout=compact" alt="balajisundar28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajisundar28&show_icons=true&locale=en" alt="balajisundar28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajisundar28&" alt="balajisundar28" /></p>
