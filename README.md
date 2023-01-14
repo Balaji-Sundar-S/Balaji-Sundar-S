@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **python, c languages**
+- 💬 Ask me about **Python, C, Java languages**
 
 - 📫 How to reach me **srbalaji282003@gmail.com**
 
