@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *Python, Java, C languages*
 
-- 📫 How to reach me *srbalaji282003@gmail.com*
+- 📫 How to reach me *balajisundar2803@gmail.com*
 
 - ⚡ Fun fact *I enjoy ice cream so much*
 
