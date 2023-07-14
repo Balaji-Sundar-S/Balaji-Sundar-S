@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="coding" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 # 💫 About Me:
-🌱I'm currently learning JavaScript<br>💬Ask me about python, Java<br>⚡Fun fact I enjoy Ice Cream do much
+🌱I'm currently learning JavaScript<br>💬Ask me about python, Java<br>⚡Fun fact I enjoy Ice Cream so much
 
 
 ## 🌐 Socials:
