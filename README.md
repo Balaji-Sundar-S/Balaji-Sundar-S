@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Sundar</h1>
-<h3 align="center">An Enthusiastic Engineer exploring new Technologies</h3>
+<h3 align="center">Aspiring Python Developer exploring new Technologies</h3>
 <img align="right" width="400" alt="coding" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 # 💫 About Me:
